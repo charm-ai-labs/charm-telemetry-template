@@ -1,6 +1,7 @@
 import os
 import logging
 from typing import Any, Dict
+# pyrefly: ignore [missing-import]
 from charm.core.telemetry import BaseTelemetryExporter
 
 logger = logging.getLogger(__name__)
