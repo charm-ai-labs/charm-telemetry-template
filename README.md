@@ -19,4 +19,4 @@ uv publish
 
 ## Submitting to the Store
 
-Once published to PyPI, submit a Pull Request to [here](https://github.com/CharmAIOS/charm-community-plugin) to list your telemetry exporter in the official Charm Store!
+Once published to PyPI, submit a Pull Request to [here](https://github.com/charm-ai-labs/charm-community-plugin) to list your telemetry exporter in the official Charm Store!
